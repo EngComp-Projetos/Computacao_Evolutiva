@@ -1,11 +1,13 @@
+# coding=UTF-8
+
 import numpy as np
 # from random import randint, uniform
 # import matplotlib.pyplot as plt
 # import csv
 
-numcolunas = 3  # Numero de colunas da matriz
-numlinhas = 3  # Numero de linhas da Matriz
-numeroindividuos = 3
+numcolunas = 3  # Número de colunas da matriz
+numlinhas = 3  # Número de linhas da matriz
+numeroindividuos = 3  # Quantidade de trilhas na placa
 
 
 def criarpop(): 
